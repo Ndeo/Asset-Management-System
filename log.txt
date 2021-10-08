@@ -1,0 +1,24 @@
+User with id= 5 has inserted a new asset with name= Chairs and value= 5015 with type= asset at: 2019-04-Wed 02:Apr:thUser with id=  has created a new user with name= Manoo and email= alqatari@gmail.com with type= Admin at: 2019-04-Wed 03:44:27User with id= 2 has upadated another user account with ID= 76 and name=  and email= 645@gmail.com at: 2019-04-Wed 16:41:23User with id= 2 has upadated a liability with id= 1 and name= students loan From/to= IAU/Studentsand value= 500 at: 2019-04-Sat 19:54:17User with id=  has created a new user with name=  and email=  with type= Admin at: 2019-04-Sat 19:54:50User with id= 2 has updated their own account at: 2019-04-Wed 14:06:28User with id=  has created a new user with name= ahmad12 and email= hmd294@gmail.com with type= normal at: 2019-04-Wed 14:29:41User with id=  has created a new user with name=  and email=  with type= Admin at: 2019-04-Wed 14:30:52User with id= 78 has inserted a new asset with name= ffff and value= 433 with type= asset at: 2019-04-Wed 14:47:28User with id= 5 has inserted a new asset with name= Baqlawa and value= 1000 with type= stock at: 2019-04-Thu 00:27:48User with id= 5 has inserted a new asset with name= fsd and value= 345 with type= asset at: 2019-04-Thu 00:28:14User with id= 5 has inserted a new asset with name= afdsasdf and value= 234 with type= asset at: 2019-04-Thu 00:29:04
+User with id= 5 has inserted a new asset with name= 4325rqew and value= 24335 with type= asset at: 2019-04-Thu 00:29:17
+User with id= 5 has inserted a new liability with name= hhg and value= 89 From/To=  at: 2019-04-Thu 08:30:55
+User with id= 45 has upadated a liability with id= 22 and name= electricty bill From/to= IAU/SECand value= 4200 at: 2019-04-Tue 21:58:39
+User with id= 45 has inserted a new asset with name= Concrete and value= 32000 with type= asset at: 2019-04-Tue 22:17:08
+User with id= 45 has inserted a new asset with name= Structure Beams and value= 55432 with type= asset at: 2019-04-Tue 22:20:45
+User with id= 45 has inserted a new asset with name= Glass Windows and value= 11022 with type= asset at: 2019-04-Tue 22:23:01
+User with id= 45 has inserted a new asset with name= Linksys Routers and value= 7112 with type= asset at: 2019-04-Tue 22:27:33
+User with id= 45 has inserted a new asset with name= Linksys Switch and value= 2380 with type= asset at: 2019-04-Tue 22:30:04
+User with id= 45 has inserted a new asset with name= Server Rack and value= 1590 with type= asset at: 2019-04-Tue 22:33:57
+User with id= 45 has inserted a new asset with name= Gigabit Ethernet cat 7 cable and value= 422 with type= asset at: 2019-04-Tue 22:38:08
+User with id= 45 has upadted an asset with ID= 78 name=  and value=  with type=  at: 2019-04-Tue 22:45:12
+User with id= 45 has upadted an asset with ID= 79 name=  and value=  with type=  at: 2019-04-Tue 22:45:39
+User with id= 45 has inserted a new asset with name= Computers and value= 45000 with type= asset at: 2019-04-Tue 22:49:15
+User with id= 45 has upadted an asset with ID= 78 name=  and value=  with type=  at: 2019-04-Tue 23:36:01
+User with id= 45 has upadted an asset with ID= 77 name=  and value=  with type=  at: 2019-04-Tue 23:37:03
+User with id= 45 has upadted an asset with ID= 80 name=  and value=  with type=  at: 2019-04-Tue 23:38:59
+User with id= 45 has upadted an asset with ID= 79 name=  and value=  with type=  at: 2019-04-Tue 23:39:38
+User with id= 45 has upadated a liability with id= 1 and name= students loan From/to= IAU/Studentsand value= 500 at: 2019-04-Tue 23:40:09
+User with id= 45 has upadated a liability with id= 3 and name= debt to the minstry of education(edited) From/to= IAU/MAASand value= 40000 at: 2019-04-Tue 23:40:52
+User with id= 5 has inserted a new asset with name= Chairs and value= 3500 with type= stock at: 2019-05-Wed 07:50:39
+User with id= 5 has inserted a new asset with name= Pens and value= 500 with type= Inventory at: 2019-05-Thu 07:25:13
+User with id= 5 has inserted a new asset with name= annual income and value= 800000 with type= Income at: 2019-05-Thu 08:29:29
+User with id=  has created a new user with name= Hello and email= nna@asf.com with type= Admin at: 2020-08-Thu 03:06:47User with email= nawaf.alowain@gmail.com changed his password at: 2021-10-Fri 07:21:11
